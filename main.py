@@ -167,7 +167,15 @@ while running:
                 else:
                     aestheticing = ""
                  
-                     
+#RARES FAGGOT GAY BUT TSEX
+# ASJFKDHSALFJ
+# ASDFAS
+# DFSA
+# FD
+# SAF
+# DSAFS
+# A
+#                      
 
     screen.fill((0, 0, 0))
     #drawing town
